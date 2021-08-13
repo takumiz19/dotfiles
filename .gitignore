@@ -3,6 +3,9 @@
 /.**
 
 ### not ignore ###
+!/Brewfile
+!/bin
+!/**/*.sh
 !/.zshrc
 !/.zshenv
 !/.zfunc/
